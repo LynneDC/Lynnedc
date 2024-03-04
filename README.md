@@ -21,7 +21,7 @@
 ### Streak
 
 <a href="https://github-readme-streak-stats.herokuapp.com/?user=LynneDC">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=LynneDCr" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=LynneDC" />
 </a>
 
 <br>
