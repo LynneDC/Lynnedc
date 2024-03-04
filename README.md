@@ -1,4 +1,4 @@
-## Hi there 👋, my name is ROSELINE DANGAZELA
+<h1>Hi there 👋, my name is ROSELINE DANGAZELA</h1>
 
 
 ### Welcome to my github page
