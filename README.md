@@ -31,9 +31,9 @@
 
 ## Github stats
 
-<!--
+
 [![](https://raw.githubusercontent.com/LynneDC/LynneDC/version-2/profile-summary-card-output/github/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
--->
+
 
 
 
