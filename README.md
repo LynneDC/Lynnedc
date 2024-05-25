@@ -48,7 +48,6 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=LynneDC&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 [![Twitter](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/AdjoviPericles)
 
-
 ### Social links
 
 [![Github](https://img.shields.io/badge/Github-000000?&style=for-the-badge&logo=github&logoColor=white)](https://github.com/LynneDC)
@@ -71,14 +70,6 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Code](https://img.shields.io/badge/VisualStudioCode-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 
-
-
-
-
-
-
-### Contribution graph
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=LynneDC)  
 
 
 <hr>
